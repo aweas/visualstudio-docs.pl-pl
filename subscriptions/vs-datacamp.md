@@ -1,5 +1,5 @@
 ---
-title: "Zwiększyć swoje umiejętności nauki danych z asysty DataCamp w wybranych subskrypcjach Visual Studio. | Microsoft Docs"
+title: "Przeczytaj o skubskrypcjach kursów DataCamp dołączonych do wybranych subskrypcji Visual Studio. | Microsoft Docs"
 Author: evanwindom
 Ms.author: jaunger
 Manager: evelynp
